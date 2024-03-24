@@ -5,3 +5,5 @@ water towards the center of the camera feed, spraying anything in front of the d
 
 An additional major change was the addition of a function that reduces the speed at which the servos turn, the original application of the code was for a very light and small device to turn very small increments. The additional weight
 range of movement caused the turret to move unexpectedly when turning at full speed.
+
+PLEASE feel free to view pictures of the working turret as well as the STLS on my linkedin: www.linkedin.com/in/aubrey-scott-8289b1166
